@@ -1,6 +1,9 @@
 Popanet
 ------------------
 
+Report:
+https://www.plume.com/resources/superproxy-the-unhealthy-marriage-of-superbox-and-residential-proxies
+
 Hashes:
 SHA256: 4f1f2472857f9f95cf24b19e61155695a3ce172eac7e0b9ebe98160040e51e66 (google_applife_pro_app_CyberFlix_TV_3_6_0_apk.apk)
 

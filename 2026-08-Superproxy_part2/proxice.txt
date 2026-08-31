@@ -1,0 +1,30 @@
+Proxice
+------------------
+
+Report:
+https://www.plume.com/resources/superproxy-how-residential-proxy-networks-have-become-malware-delivery-platforms
+
+Hashes:
+SHA256: e1a8f0d002fcbed6a9ce12c618811c6673a5f027da0d2722c2bd77086aa9893e  bytestream.dex
+SHA256: 315f12e721b6d228c614712a623e4dc159b700904b1c807e1a5d2d2be7778bab  bytestream_v7.dex
+SHA256: 504618b0e82e0fd73391270be8d15fffce9bd5e36da9435d8de504e918f30394  classes.dex
+SHA256: 6830da47375ae1cb1112425c24bc6fd91b9fa2825f0e2e76c264ce50efc6dd1f  mask_v3.dex
+SHA256: 9eb79fff3b28dec8d404a6713b8e6a60535805c6e7d84c7e8ac9bdff5d1592cf 
+SHA256: e837d2bbc91b5e0c3adf420306c9e4fb2332c99462e19219a5cbf0b2d13acd1a
+
+ENS:
+dortation.eth
+
+Proxy IP addresses:
+5.175.215.43
+
+Task descriptions:
+5.175.215.37/mask_v3.dex|mask_v3|MEQCIFFsSN83yCbOaTlg0tT0mK9YlSXgMa2NnsEfByT7//BEAiBkJGJu6VKMFuSfQyx9EZlehQzfdKHtqnsSFNF+4yNFkw==|wtf.bytestream.multiplex.MultiplexProxyEntry
+95.133.240.250/bytestream.dex|proxicejellybean|MEUCIQDc/8UDCzDUHdd2NhGSjVJTnNUcRUxkQAZUgWHcHDV+PAIgel7ikPNA86KqpQCO7Bfq71wr8JSABvQtdyKNx0p8OxI=|net.bytestream.android.jellybean.ProxiceEntry
+95.133.240.250/classes.dex|proxiz|MEUCIQCciw5BnONSOsCtMwrwsyFmbNoVqx9nioCotTw0YdHV9gIgdgt6ck2Ngl1amI3r4RjnX+hdoQaySK6sJcNmBHkt75Y=|wtf.bytestream.proxi.Entrypoint
+176.65.149.209/classes.dex|proxysixsevenn|MEQCIAFvRZeocMCIQGMEC5W+7KkpDCcJ1uMRnbluOu+hnPGiAiAI4CBrsQnNaqu/QDJk+wBLJrQqwW7yCCP8YPQ16GlBlw==|wtf.bytestream.proxi.Entrypoint
+176.65.149.209/femboypower|pxe|MEYCIQCPf0cFSF1uLut3nTmtZ4Bj2rht7+Gzt7i6PGQ9HR+9BQIhAKIgHiFIGlmNkjWeNSKrP452xlexwv5ij8TXrDlRS7mw|wtf.bytestream.proxi.Entrypoint
+
+Peer secrets:
+lolggniggers
+adn

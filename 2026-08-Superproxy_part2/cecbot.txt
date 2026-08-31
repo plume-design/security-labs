@@ -1,0 +1,110 @@
+Cecbot
+------------------
+
+Report:
+https://www.plume.com/resources/superproxy-how-residential-proxy-networks-have-become-malware-delivery-platforms
+
+File hashes:
+b139a112e433530e6e84e96b0f5bb04f1b493fc0b532496ae3161bf11d6fb52b
+
+APK distribution server:
+124.198.131.24:13123
+
+C2 servers:
+sdkconnecter.com
+sdkconnect121.st
+botdealers.st
+okiloveyoupleasedonttouchme.net
+thespacemachines.st
+plsleavemealone.com
+ilikecircumcised.com
+imsowiwiwiwiwi.com
+aaronweintraubfromcogent.com
+aaronweintraubwantstobecyberpolice.com
+dontworry.su
+iloveusomuch.to
+iloveyourweewee.bz
+
+C2 IPs
+62.60.226.111
+64.89.160.15
+217.60.195.22
+169.40.135.108
+31.57.184.162
+94.154.43.223
+141.98.10.141
+176.65.139.141
+
+Cryptographic keys:
+String / URL XOR key (+ ChaCha key mask) : 73 A5 1C E7 4B 92 D8 3F
+ChaCha20 key (Tor onion peer-list AEAD)  : 9FE8224B5C23C7FA ED9028B71B544A46 E28307C2D1CFC307 02DC065A41792E4E
+Ed25519 server verify key                : 64C770B5079C2282 EA7007DA8A63342D 7A2EB40E59359207 B264150F8CA8B3F8
+Server static X25519 pub.                : 4CBADD1ECDCFC803 6ADA85D4E5A66E65 A8516A2E187FEBCC 23002779396AEB3F
+
+Package and process indicators:
+Package name: com.siliconworks.firmware
+Native library name: libattack.so, libwatchdog.so
+
+Encrypted strings in the APK
+        /* 0  */ "https://api.ipify.org",
+        /* 1  */ "https://checkip.amazonaws.com",
+        /* 2  */ "https://icanhazip.com",
+        /* 3  */ "https://ifconfig.me/ip",
+        /* 4  */ "https://ipinfo.io/ip",
+        /* 5  */ "http://ip-api.com/json",
+        /* 6  */ "http://speedtest.tele2.net/1MB.zip",
+        /* 7  */ "android.software.leanback",
+        /* 8  */ "android.hardware.type.television",
+        /* 9  */ "/system/bin/su",
+        /* 10 */ "/system/xbin/su",
+        /* 11 */ "/sbin/su",
+        /* 12 */ "/data/local/xbin/su",
+        /* 13 */ "/data/local/bin/su",
+        /* 14 */ "/system/sd/xbin/su",
+        /* 15 */ "/system/bin/failsafe/su",
+        /* 16 */ "/data/local/su",
+        /* 17 */ "WiFi",
+        /* 18 */ "Mobile",
+        /* 19 */ "Ethernet",
+        /* 20 */ "VPN",
+        /* 21 */ "screencap -p",
+        /* 22 */ "input keyevent ",
+        /* 23 */ "echo standby 0 | cec-client -s -d 1",
+        /* 24 */ "setprop service.adb.tcp.port ",
+        /* 25 */ "stop adbd && start adbd",
+        /* 26 */ "pm install -r ",
+        /* 27 */ "pm uninstall ",
+        /* 28 */ "am force-stop ",
+        /* 29 */ "monkey -p ",
+        /* 30 */ "ip route show default",
+        /* 31 */ "getprop net.dns",
+        /* 32 */ "wlan0",
+        /* 33 */ "eth0",
+        /* 34 */ "status",
+        /* 35 */ "success",
+        /* 36 */ "country",
+        /* 37 */ "city",
+        /* 38 */ "isp",
+        /* 39 */ "as",
+        /* 40 */ "echo scan | cec-client -s -d 1 2>/dev/null",
+        /* 41 */ "cat /sys/class/amhdmitx/amhdmitx0/hpd_state 2>/dev/null",
+        /* 42 */ "dumpsys hdmi_control 2>/dev/null",
+        /* 43 */ "cat /sys/class/amhdmitx/amhdmitx0/hpd_state 2>/dev/null",
+        /* 44 */ "cmd hdmi_control cec_send ",
+        /* 45 */ "echo tx ",
+        /* 46 */ " | cec-client -s -d 1 2>&1",
+        /* 47 */ " 2>&1",
+        /* 48 */ "application/vnd.android.package-archive",
+        /* 49 */ "su",
+        /* 50 */ "su -c id",
+        /* 51 */ "getprop net.dns",
+        /* 52 */ "com.google.android.update.W",
+        /* 53 */ "c2kxpjr7cux7fqrfmimsz7rtq527xauw627xrjojimt66nwxqvrqbuyd.onion",
+        /* 54 */ "tor/",
+        /* 55 */ "Bootstrapped 100%",
+        /* 56 */ "/c",
+        /* 57 */ "--SocksPort",
+        /* 58 */ "--DataDirectory",
+        /* 59 */ "--DisableNetwork",
+        /* 60 */ "warn stdout"
+
