@@ -1,0 +1,42 @@
+Blog post:
+https://plume.com/newsroom/before-gta-vi
+
+Case 1
+------------------
+Domains:
+vik1ngfile.site
+
+Case 2
+------------------
+Domains:
+mobilefuturetech.buzz
+benderoflight.com
+
+IP:
+93.94.52.29
+
+File hashes:
+a1fe20a3256f5dd61847c799d2629ed73f4cf036c04b76800214cbc49f705b1a
+b1ebea5464b5df40ddf40480b6859b9a71999f413ae40153263ef8de65a13093
+6430fc28487e88689648a667ad0010800d3913061ee38fba642b89341d41aba1
+
+MD5:
+b6e9b6a952228b31c5f00b8d44fd84ef
+6894bbc171715c94442b58531b59e164
+d12e0065602bd128a4a65f8421e7c12e
+
+Case 3
+------------------
+Domains:
+pingstatus.click
+mirthvaleway.cc
+sablecroft.cc
+wydw2j3ng.sbs
+
+File hashes:
+5ff1e617f449e157e9a113b3cd4b6979a4aeb3b800501f471a09245211142fb6
+677311c58d24d1a24c2ff435e2915c983e7ce04fb9ed6e05733e0e8293cc936a
+
+MD5:
+37061054fa18685369457356212e43ca
+144e2a0ff09812284175965e11404c03
